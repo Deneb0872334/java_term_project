@@ -1,1 +1,8 @@
+<<<<<<< Updated upstream
 test file for git
+=======
+test file for git
+Hello World
+Hello World 2
+Hello World 3
+>>>>>>> Stashed changes
